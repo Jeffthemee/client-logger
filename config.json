@@ -1,0 +1,8 @@
+{
+  "Directories": {
+    "LogDirectory": "Logs"
+  },
+  "Webhooks": {
+    "Mainlogger": ""
+  }
+}
