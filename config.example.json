@@ -1,0 +1,38 @@
+{
+    "VRCACC": {
+        "username": "",
+        "password": "",
+        "twofatoken": ""
+    },
+    "userAgent": "NODEJSVRCBOT/1.0.5 EMAILHERE", 
+    "OSC_TARGET_ADDRESS": "127.0.0.1",
+    "OSC_TARGET_PORT": "9000",
+    "addons": {
+        "radio": {
+            "radiotype": "ltgnekohs",
+            "toggleradionp": false,
+            "msrefresh": 20000,
+            "endreload": 20000
+        },
+        "uptime": {
+            "toggle": false,
+            "msrefresh": 20000,
+            "endreload": 10000
+        },
+        "info": {
+            "toggle": false,
+            "msrefresh": 20000,
+            "endreload": 10000
+        },
+        "vrcapi": {
+            "toggles": {
+                "blfr": false,
+                "blscan": false,
+                "wlreq": false
+            },
+            "whitelist": [
+                "usr_a2544e1a-5d86-4da1-a841-88cbbef08c91"
+            ]
+        }
+    }
+}
