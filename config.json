@@ -1,6 +1,6 @@
 {
   "Directories": {
-    "LogDirectory": "Logs"
+    "LogDirectory": "C:\\Users\\$user$\\AppData\\LocalLow\\VRChat\\VRChat"
   },
   "Webhooks": {
     "Mainlogger": ""
